@@ -1,1 +1,59 @@
 /*  your css code here. If applicable */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #a374e8;
+}
+
+#buttons {
+    display: flex;
+    gap: 20px;
+}
+
+.btn, .stop {
+    background-color: #5b2c82;
+    color: white;
+    font-size: 18px;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn:hover, .stop:hover {
+    background-color: #4b2372;
+}
+/*  your css code here. If applicable */
+/*  your css code here. If applicable */
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #a374e8;
+}
+
+#buttons {
+    display: flex;
+    gap: 20px;
+}
+
+.btn, .stop {
+    background-color: #5b2c82;
+    color: white;
+    font-size: 18px;
+    border: none;
+    padding: 15px 30px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn:hover, .stop:hover {
+    background-color: #4b2372;
+}
